@@ -13,7 +13,7 @@ git config --global --replace-all user.email "Email"
 ```
 
 # Reference 
-<a href="https://www.codegrepper.com/code-examples/shell/remove+git+user.name"> Reference Code</a>
+<a href="https://www.codegrepper.com/code-examples/shell/remove+git+user.name"> https://www.codegrepper.com/code-examples/shell/remove+git+user.name </a>
 # Authors
 - Worrawut J.
 
